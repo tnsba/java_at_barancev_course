@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fd0f9199-2ba7-4a5a-bb8d-944b42e6b18a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +53,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,6 +80,31 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.pft.sandbox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
+      <module name="sandbox.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstProgram" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,7 +115,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773773502464</updated>
-      <workItem from="1773773510488" duration="2374000" />
+      <workItem from="1773773510488" duration="2555000" />
+      <workItem from="1773852891640" duration="4372000" />
     </task>
     <servers />
   </component>
@@ -79,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="760" y="274" key="#Project_Structure" timestamp="1773774408739">
@@ -97,5 +152,37 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="393" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1773774201866" />
+    <state width="2517" height="277" key="GridCell.Tab.0.bottom" timestamp="1773857510167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="277" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
+    <state width="2517" height="277" key="GridCell.Tab.0.center" timestamp="1773857510167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="277" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
+    <state width="2517" height="277" key="GridCell.Tab.0.left" timestamp="1773857510167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="277" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
+    <state width="2517" height="277" key="GridCell.Tab.0.right" timestamp="1773857510167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="277" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
+    <state width="2517" height="384" key="GridCell.Tab.1.bottom" timestamp="1773857209629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="384" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
+    <state width="2517" height="384" key="GridCell.Tab.1.center" timestamp="1773857209629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="384" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
+    <state width="2517" height="384" key="GridCell.Tab.1.left" timestamp="1773857209629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="384" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
+    <state width="2517" height="384" key="GridCell.Tab.1.right" timestamp="1773857209629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="384" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
   </component>
 </project>
