@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd0f9199-2ba7-4a5a-bb8d-944b42e6b18a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/sandbox/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/sandbox/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +73,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -116,7 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1773773502464</updated>
       <workItem from="1773773510488" duration="2555000" />
-      <workItem from="1773852891640" duration="4372000" />
+      <workItem from="1773852891640" duration="5201000" />
+      <workItem from="1773910022808" duration="2640000" />
     </task>
     <servers />
   </component>
@@ -144,6 +142,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1773775301725" />
+    <state x="906" y="624" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1773910200323">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="906" y="624" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1773910200323" />
     <state x="1063" y="590" width="476" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1773775872619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -152,37 +154,41 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="393" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1773774201866" />
-    <state width="2517" height="277" key="GridCell.Tab.0.bottom" timestamp="1773857510167">
+    <state width="2517" height="384" key="GridCell.Tab.0.bottom" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="277" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
-    <state width="2517" height="277" key="GridCell.Tab.0.center" timestamp="1773857510167">
+    <state width="2517" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state width="2517" height="384" key="GridCell.Tab.0.center" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="277" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
-    <state width="2517" height="277" key="GridCell.Tab.0.left" timestamp="1773857510167">
+    <state width="2517" height="384" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state width="2517" height="384" key="GridCell.Tab.0.left" timestamp="1773858587020">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="277" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
-    <state width="2517" height="277" key="GridCell.Tab.0.right" timestamp="1773857510167">
+    <state width="2517" height="384" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587020" />
+    <state width="2517" height="384" key="GridCell.Tab.0.right" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="277" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1773857510167" />
-    <state width="2517" height="384" key="GridCell.Tab.1.bottom" timestamp="1773857209629">
+    <state width="2517" height="384" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state width="2517" height="384" key="GridCell.Tab.1.bottom" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="384" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
-    <state width="2517" height="384" key="GridCell.Tab.1.center" timestamp="1773857209629">
+    <state width="2517" height="384" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state width="2517" height="384" key="GridCell.Tab.1.center" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="384" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
-    <state width="2517" height="384" key="GridCell.Tab.1.left" timestamp="1773857209629">
+    <state width="2517" height="384" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state width="2517" height="384" key="GridCell.Tab.1.left" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="384" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
-    <state width="2517" height="384" key="GridCell.Tab.1.right" timestamp="1773857209629">
+    <state width="2517" height="384" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state width="2517" height="384" key="GridCell.Tab.1.right" timestamp="1773858587021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="384" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1773857209629" />
+    <state width="2517" height="384" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1773858587021" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1773924117757">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1773924117757" />
   </component>
 </project>
