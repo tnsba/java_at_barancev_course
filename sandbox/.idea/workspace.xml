@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56ef084e-fb70-479c-bbf2-35312833a53b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/NavigationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/TestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +226,8 @@
       <workItem from="1773930633326" duration="683000" />
       <workItem from="1773931331091" duration="2276000" />
       <workItem from="1774190622940" duration="11508000" />
-      <workItem from="1774616387251" duration="5047000" />
+      <workItem from="1774616387251" duration="5179000" />
+      <workItem from="1775494702996" duration="1256000" />
     </task>
     <servers />
   </component>
@@ -257,11 +251,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="760" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1774199332706" />
-    <state x="990" y="450" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1774638863272">
-      <screen x="0" y="0" width="2560" height="1359" />
+    <state x="990" y="464" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1775495707746">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="990" y="450" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.2560.1359@0.0.2560.1359" timestamp="1774638863272" />
-    <state x="990" y="464" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1774207668988" />
+    <state x="990" y="464" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1775495707746" />
     <state x="996" y="497" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1774636935456">
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
@@ -290,15 +284,19 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="850" y="331" width="859" height="735" key="RefactorJ.IntroduceParameterObject/0.0.2560.1400@0.0.2560.1400" timestamp="1774205337126" />
+    <state x="1095" y="634" key="ReplaceDuplicatesPrompt" timestamp="1775495331662">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1095" y="634" key="ReplaceDuplicatesPrompt/0.0.2560.1400@0.0.2560.1400" timestamp="1775495331662" />
     <state x="760" y="266" key="SettingsEditor" timestamp="1774636737832">
       <screen x="0" y="0" width="2560" height="1359" />
     </state>
     <state x="760" y="266" key="SettingsEditor/0.0.2560.1359@0.0.2560.1359" timestamp="1774636737832" />
     <state x="760" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1774196985963" />
-    <state x="1010" y="437" key="extract.method.dialog" timestamp="1774636796003">
-      <screen x="0" y="0" width="2560" height="1359" />
+    <state x="1010" y="450" key="extract.method.dialog" timestamp="1775495322666">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="437" key="extract.method.dialog/0.0.2560.1359@0.0.2560.1359" timestamp="1774636796003" />
-    <state x="1010" y="450" key="extract.method.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1774204261994" />
+    <state x="1010" y="450" key="extract.method.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1775495322666" />
   </component>
 </project>
